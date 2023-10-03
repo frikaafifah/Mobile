@@ -5,4 +5,9 @@
     <string name="tinggi">Tinggi</string>
     <string name="hitung">Hitung</string>
     <string name="contoh" />
+    <string name="pindah_activity" />
+    
+    <string name="pindah">pindah</string>
+    <string name="ini_laman_move_with_data">ini laman move with data</string>
+    <string name="pindah_activity_with_data">pindah activity with data</string>
 </resources>

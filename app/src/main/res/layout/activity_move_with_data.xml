@@ -9,18 +9,11 @@
     android:padding="16dp"
     >
 
-   <Button
-       android:id="@+id/btn_switch"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:text="@string/pindah"
-       />
-
-   <Button
-       android:id="@+id/btn_move_data"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:text="@string/pindah_activity_with_data"
-      />
+    <TextView
+        android:id="@+id/dataReceive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ini_laman_move_with_data"
+        />
 
 </LinearLayout>
